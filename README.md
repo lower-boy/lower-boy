@@ -1,6 +1,6 @@
 ### Hi there lowest
 
-Here are some ideas to get you started:
+Here you started: https://lower-boy.github.io/lower-boy/
 
 - 🔭 I’m currently working on ... UI 
 - 🌱 I’m currently learning ...
